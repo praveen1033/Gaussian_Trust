@@ -6,11 +6,11 @@ Data Description:
   The power consumption is either in watts or kilowatts. We use watts. So, we need conversion if needed. 1 kilowatt = 1000 watts.
   The next few lines show the sample of the smart meter data set. To view the data sample clearly click Blame option on the top right corner.
   
-      time                    id          usage         Generation          Grid
-  01/01/2016 00:00:00         26          0.5271        -0.00126            0.52586
-  01/01/2016 00:00:00         9052        0.3711        -0.00723            0.53711
-  01/01/2016 01:00:00         26          0.4631        -0.00006            0.46231
-  01/01/2016 01:00:00         9052        0.6712        -0.00785            0.64112
+| time                | id   | usage  | generation | grid    |
+|---------------------|------|--------|------------|---------|
+| 01/01/2016 00:00:00 | 26   | 0.5271 | -0.00126   | 0.52586 |
+| 01/01/2016 00:00:00 | 9052 | 0.3711 | -0.00723   | 0.53711 |
+| 01/01/2016 01:00:00 | 26   | 0.4631 | -0.00006   | 0.46231 |
 
 We need the first 3 columns for this project. 
 The first column shows the time. The sample shows we have the data readings per each hour.
