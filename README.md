@@ -4,7 +4,7 @@ Contains codes (MATLAB and Python) for detecting data falsification in AMI / Sma
 Data Description:
   The smart grid data is available in time intervals of 1 hour or 30 minutes per each smart meter.
   The power consumption is either in watts or kilowatts. We use watts. So, we need conversion if needed. 1 kilowatt = 1000 watts.
-  The next few lines show the sample of the smart meter data set. To view the data sample clearly click Blame option on the top right corner.
+  The sample of the smart meter data set is shown below.
   
 | time                | id   | usage  | generation | grid    |
 |---------------------|------|--------|------------|---------|
