@@ -13,6 +13,9 @@ Data Description:
   01/01/2016 01:00:00         9052        0.6712        -0.00785            0.64112
 
 We need the first 3 columns for this project. 
-The first column sows the time. The sample shows we have the data readings per each hour.
+The first column shows the time. The sample shows we have the data readings per each hour.
 The second column shows the smart meter id number. This could be used for meter by meter seperation of data.
 The third column is the usage recorded in kilowatts. We will convert it to watts for our project.
+
+We will start with how to load the datafile. First, we will see how to load the file using MATLAB.
+
