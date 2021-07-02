@@ -37,3 +37,9 @@ Meter_Readings = File_data(:,3)*1000;                                         % 
 
 Now, we will see how to clean the data.
 
+WHY FILTERING NECESSARY ?
+
+
+FILTERING LOGIC? 
+
+
